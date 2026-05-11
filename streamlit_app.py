@@ -369,9 +369,9 @@ if "review" not in st.session_state:
 
 # Quick-try example reviews
 EXAMPLES = {
-    "👍 Great film":    "This movie was fantastic! I really enjoyed it.",
+    "👍 Great film":    "An interesting attempt but ultimately falls flat. Some scenes shine while others drag on without any real purpose.",
     "👎 Terrible film": "One of the worst films I have ever seen. The plot made no sense and the acting was painfully wooden throughout.",
-    "🤔 Mixed feelings": "An interesting attempt but ultimately falls flat. Some scenes shine while others drag on without any real purpose.",
+    "🤔 Mixed feelings": "This movie was absolutely brilliant. The storytelling was captivating and the performances needs to be better.",
 }
 
 
