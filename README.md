@@ -8,7 +8,7 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://tensorflow.org)
 [![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
-[![Live Demo](https://img.shields.io/badge/▶%20WATCH%20LIVE-FF0000?style=for-the-badge)](https://cinescope-rnn.streamlit.app)
+[![Live Demo](https://img.shields.io/badge/▶%20WATCH%20LIVE-FF0000?style=for-the-badge)](https://rnn-imdb-review-classification-eunnmruxwtpattzw4pjqoa.streamlit.app/)
 
 ---
 
