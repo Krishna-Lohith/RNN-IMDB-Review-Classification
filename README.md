@@ -132,7 +132,7 @@ CineScope/
 
 **Step 1 — Clone the repo**
 ```bash
-git clone https://github.com/YOUR_USERNAME/CineScope.git
+https://github.com/Krishna-Lohith/RNN-IMDB-Review-Classification.git
 cd CineScope
 ```
 
